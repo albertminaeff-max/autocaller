@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "strategic-haven-497713-q2",
+  "private_key_id": "b8c78f57eacd7084f2b369937f418d527de254a3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDRg+nb7AZarHaJ\nZFbUpwRZss404zBLq8XPEhUHR19nqtjSzwUXXuXBmzY6lrPP6pboD5zY1YoUXZS7\n0H4nv0+Frjau0WWTi+kE8Xk5tfSXcbCjvSyJOdzzVA8vXpjDldkTZZK3mYtV7rtR\nIgtEHVeMQ9JVaymnoXy07FvumRy04IE7eY4KmHJftakvH3DdMreT/H6r9om41spo\nDB86dhNBudDyoPmHkfEFxSBhFIlCsUDOkXS/A0sMAEhdOc+9dp3BMbHwWl9XbG8b\nwgs/z61uDvBv3T/GJHp7YF274VbTLl8NJADksfctA3U3ykNhUrPl+Ly4WDuVA9nD\nRIovgUsrAgMBAAECggEAQpDcvkjRBAIDb0d35vxhf3Y12cvMzl327QFbuQJOJ4u6\nc8/eWDyIVujPY/H5kzd/Vp+PP70or6vD06A8VLiNtXVSXlydHzG2iSGHWHSdD3jJ\nnFxASCEgOBce8/fkJU/4thbxdG/OOzEsRmzAk5WW+TObIhR4GZBPJNRrqPTwj+6p\nAqUdqTl9vdIrJQr1ehtXXCIS48Sy7ZSHZqk6d9iR8F39LIPnwuvTqq+2rGSKN4OC\nY/h9EB78hsTD0alHCXAAbySjFWRmvtqWSYP3IBn2lt2o+n2Pt/+Pb6DXs6sMO6ep\nBEmel03NEqvexG5ToCaxhcxG21Unu/g8PZO+ckjhAQKBgQD0F6yQTqLzI6H18V8S\nJMHbJmN9SzBeP98UyTHKVGfwFNpYGKKUHUB0BC87edAg5bdddulvwRBXG6Pfhmcz\nj2uePiyY2mCUjf7ZUwxwqHy4RSuZBZwfoLgTZxqWexm38YdpgnV8AfPknRWTOb+B\n3xVokjw4VykSOIGLlovvqy4NwQKBgQDbvGzqrFrqk2UajQa9CD93sSCHiiN0DpN4\nmYJcjq0o2ApckUtVOa+Cx0RjY8woerVCofRhoyPN1BE7ik/JOANzYzAmtT9akfAk\nAfmV6xYwVg5AeKg569gP2Jc6AWEPPwtAPrFWCBbDAoEOnk1X3e3mL1i5sbbbcsmQ\nE5dI4Ttr6wKBgHFgobXx4LyA+5TKhbdevXC2txWWnCPbFRqJjYgGhrS8auLqpnGX\n2L1KyEme/i6ZpP9T4YAYNCfR3d9QhZUsc/dvt7VUEfJOtmZpreiSSkQpVOPh+C+0\nrmvMw0vMaBjJpnU6tKliGtBAqqnU9AA2B7Kn4jLlQV2GQ5370ooDgAPBAoGBANsz\nF6/u6e8xxFz9LCisrquXHe04B3ACDmjzMhFlHyYshgGby3ukRQqAAB/p8UK8Tk+/\nQguYc+IjWGF982O2pfKYkvM6QY33IYi6E6HTV1o2rpbwBllphSshlJJ/x7Qu3uli\n4QMCpLo6qEXN8zfhIy5KMwdjWheGZb59XKCOVvmrAoGAEEUicKmGo+vbMMRGW4AO\nhjBk4R85GnWvHTMZRc+tg0d/RIN8tNN4Kz1J5RyiwtnkSlYukEgJYh0TCIuPJzRO\n0znyW+vNBYm5FYZqodJz9H5t7b4u73mYqm6wOdkGrSglJELE3hUv2m1Pzmp86QHX\npqCSWRqxGSLrWQrg1fv0H3s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "qwerty@strategic-haven-497713-q2.iam.gserviceaccount.com",
+  "client_id": "113840232818992443591",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/qwerty%40strategic-haven-497713-q2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
